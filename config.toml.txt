@@ -1,0 +1,4 @@
+[theme]
+primaryColor="#f0f2f6"
+backgroundColor="#f0f2f6"
+secondaryBackgroundColor="#f0f2f6"
